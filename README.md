@@ -16,20 +16,20 @@ The main game class that orchestrates the gameplay. It handles user input, board
 The entry point for the Minesweeper game. It provides a simple console-based interface for user registration, login, and starting the Minesweeper game.
 
 # How to Play
-Run the MinesweeperDemo class.
-Choose to either register or login.
-If registering, enter a unique username and password.
-If logging in, provide the registered username and password.
-Enter the number of rows and columns for the Minesweeper board.
-The game will display the initial board, and you can start playing by entering row and column coordinates.
-If you hit a mine, the game ends. If you reveal all non-mine cells, you win.
-Implementation Details
-Mines are randomly placed on the board at the beginning of the game.
-The user interacts with the game by entering coordinates to reveal cells.
-The game automatically reveals adjacent cells if the selected cell has no mines around it.
-The game ends when a mine is revealed, or all non-mine cells are revealed.
+Run the MinesweeperDemo class. <br>
+Choose to either register or login. <br>
+If registering, enter a unique username and password. <br>
+If logging in, provide the registered username and password. <br>
+Enter the number of rows and columns for the Minesweeper board. <br>
+The game will display the initial board, and you can start playing by entering row and column coordinates. <br>
+If you hit a mine, the game ends. If you reveal all non-mine cells, you win.<br>
+Implementation Details<br>
+Mines are randomly placed on the board at the beginning of the game.<br>
+The user interacts with the game by entering coordinates to reveal cells.<br>
+The game automatically reveals adjacent cells if the selected cell has no mines around it.<br>
+The game ends when a mine is revealed, or all non-mine cells are revealed.<br>
 # Contributors
-Ros Sopanha &
+Ros Sopanha <br>
 San Piseth
 
 Feel free to contribute, report issues, or suggest improvements to make this Minesweeper game even better!
