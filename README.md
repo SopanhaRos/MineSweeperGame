@@ -29,6 +29,7 @@ The user interacts with the game by entering coordinates to reveal cells.
 The game automatically reveals adjacent cells if the selected cell has no mines around it.
 The game ends when a mine is revealed, or all non-mine cells are revealed.
 # Contributors
-Ros Sopanha
+Ros Sopanha &
 San Piseth
+
 Feel free to contribute, report issues, or suggest improvements to make this Minesweeper game even better!
